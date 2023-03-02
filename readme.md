@@ -5,21 +5,21 @@ LICENSE:[ MIT](./license.md)
 
 ---
 ## Содержание
-- 1. Конфигурация Git
-  * 1. [git config](git-config.md)
-  - 2. [git init](git-init.md)
-  - 3. [git clone](git-clone.md)
+### 1. Конфигурация Git
+1. [git config](git-config.md)
+2. [git init](git-init.md)
+3. [git clone](git-clone.md)
 
 
-- 2. Базовые команды
-  - 1. [git add](git-add.md)
-  - 2. [git status](git-status.md)
-  - 3. [git commit](git-commit.md)
-  - 4. [git diff](git-diff.md)
-  - 5. [git rm](git-rm.md)
-  - 6. [git mv](git-mv.md)
+### 2. Базовые команды
+  - [git add](git-add.md)
+  - [git status](git-status.md)
+  - [git commit](git-commit.md)
+  - [git diff](git-diff.md)
+  - [git rm](git-rm.md)
+  - [git mv](git-mv.md)
 
-- 3. Ветвление и объединение
+### 3. Ветвление и объединение
   - 1. [git branch](git-branch.md)
   - 2. [git switch](git-switch.md)
   - 3. [git merge](git-merge.md)

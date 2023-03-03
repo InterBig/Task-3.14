@@ -5,10 +5,12 @@ LICENSE:[ MIT](./license.md)
 
 ---
 ## Содержание
+[**Краткий список комманд**](git-ShortCommand.md)
+
 ### 1. Конфигурация Git
-1. [git config](git-config.md)
-2. [git init](git-init.md)
-3. [git clone](git-clone.md)
+  - [git config](git-config.md)
+  - [git init](git-init.md)
+  - [git clone](git-clone.md)
 
 
 ### 2. Базовые команды
@@ -20,10 +22,17 @@ LICENSE:[ MIT](./license.md)
   - [git mv](git-mv.md)
 
 ### 3. Ветвление и объединение
-  - 1. [git branch](git-branch.md)
-  - 2. [git switch](git-switch.md)
-  - 3. [git merge](git-merge.md)
+  - [git branch](git-branch.md)
+  - [git switch](git-switch.md)
+  - [git merge](git-merge.md)
 
+### 4. Синхронизация
+  - [git fetch](git-fetch.md)
+  - [git pull](git-pull.md)
+  - [git push](git-push.md)
+
+---
+[**Краткий список комманд**](git-ShortCommand.md)
 
 ---
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, 

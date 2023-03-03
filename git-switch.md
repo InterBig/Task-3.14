@@ -12,4 +12,4 @@
 
 Создаёт новую ветку и переключает на неё:
 
-    git switch --create {{branch_name}}
+    git switch --create second

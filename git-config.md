@@ -10,4 +10,4 @@
 
 git config --global user.name "Your Name"
 
-git config --global user.email "Your_email@whatever.com"
+git config --global user.email `"Your_email@whatever.com"`
